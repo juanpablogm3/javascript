@@ -1,0 +1,16 @@
+/* NORMALIZE */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(54, 54, 54);
+}
+
+
+.home {
+    margin-top: 250px;
+    text-align: center;
+    color: white;
+}
